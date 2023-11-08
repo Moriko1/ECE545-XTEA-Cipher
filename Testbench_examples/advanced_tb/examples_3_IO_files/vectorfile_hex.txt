@@ -1,0 +1,35 @@
+#Format is Rst, Load, Data, Q
+#load the counter to all 1s 
+0 1 FF FF
+#reset the counter 
+1 0 AA 00
+#now perform load/increment for each bit 
+0 1 FE FE 
+0 0 FE FF 
+#
+0 1 FD FD 
+0 0 FD FE 
+#
+0 1 FB FB 
+0 0 FB FC 
+#
+0 1 F7 F7
+0 0 F7 F8 
+#
+0 1 EF EF
+0 0 EF F0 
+#
+0 1 DF DF 
+0 0 DF E0
+#
+0 1 BF BF
+0 0 BF C0 
+#
+0 1 7F 7F 
+0 0 7F 80
+#
+#check roll-over case
+0 1 FF FF
+0 0 FF 00
+#
+#End vectors
