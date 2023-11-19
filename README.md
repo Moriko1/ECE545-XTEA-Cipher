@@ -15,7 +15,8 @@ Mini-Project 01 covers:
 - Post-synthesis timing analysis to further verify the operation of the cipher
 
 ## Implementation Notes
-TBD
+*Compiled using VHDL 2008 syntax, due to depreciations
+*DK_pkg may flag as circular logic upon first compile, dependencies/order seem to sort themselves out on future runs
 
 
 
