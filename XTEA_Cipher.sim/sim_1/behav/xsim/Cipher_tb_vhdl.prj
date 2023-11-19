@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl2008 xil_defaultlib  \
+"../../../../Controller.vhd" \
+"../../../../Datapath.vhd" \
+"../../../../Cipher.vhd" \
+"../../../../Cipher_tb.vhd" \
+
+# Do not sort compile order
+nosort

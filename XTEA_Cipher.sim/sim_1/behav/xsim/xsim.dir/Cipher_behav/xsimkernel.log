@@ -1,0 +1,7 @@
+Running: xsim.dir/Cipher_behav/xsimk.exe -simmode gui -wdb Cipher_behav.wdb -simrunnum 0 -socket 52591
+Design successfully loaded
+Design Loading Memory Usage: 7620 KB (Peak: 7620 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8076 KB (Peak: 8076 KB)
+Simulation CPU Usage: 0 ms

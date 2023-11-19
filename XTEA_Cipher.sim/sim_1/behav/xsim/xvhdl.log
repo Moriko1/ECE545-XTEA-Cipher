@@ -1,0 +1,9 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/ECE545/XTEA_Cipher/Controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Xilinx/ECE545/XTEA_Cipher/Datapath.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'dk_pkg' is not compiled in library 'xil_defaultlib' [C:/Xilinx/ECE545/XTEA_Cipher/Datapath.vhd:5]
+INFO: [VRFC 10-3107] analyzing entity 'Datapath'
+ERROR: [VRFC 10-2989] 'dval' is not declared [C:/Xilinx/ECE545/XTEA_Cipher/Datapath.vhd:11]
+ERROR: [VRFC 10-2989] 'kram' is not declared [C:/Xilinx/ECE545/XTEA_Cipher/Datapath.vhd:12]
+ERROR: [VRFC 10-9458] unit 'datapath' is ignored due to previous errors [C:/Xilinx/ECE545/XTEA_Cipher/Datapath.vhd:7]
+INFO: [VRFC 10-8704] VHDL file 'C:/Xilinx/ECE545/XTEA_Cipher/Datapath.vhd' is ignored due to errors

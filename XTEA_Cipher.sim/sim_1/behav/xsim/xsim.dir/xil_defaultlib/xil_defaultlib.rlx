@@ -1,0 +1,10 @@
+0.7
+2020.2
+Jun 16 2023
+19:55:58
+C:/Xilinx/ECE545/Samples/Statistics/Statistics/Statistics.vhd,1697007180,vhdl2008,C:/Xilinx/ECE545/Samples/Statistics/Statistics/Statistics_tb.vhd,,,statistics,,,,,,,,
+C:/Xilinx/ECE545/Samples/Statistics/Statistics/Statistics_tb.vhd,1696993144,vhdl2008,,,,statistics_tb,,,,,,,,
+C:/Xilinx/ECE545/XTEA_Cipher/Cipher.vhd,1700346467,vhdl2008,C:/Xilinx/ECE545/XTEA_Cipher/Cipher_tb.vhd,,,cipher,,,,,,,,
+C:/Xilinx/ECE545/XTEA_Cipher/Cipher_tb.vhd,1700346923,vhdl2008,,,,cipher_tb,,,,,,,,
+C:/Xilinx/ECE545/XTEA_Cipher/Controller.vhd,1700351686,vhdl2008,C:/Xilinx/ECE545/XTEA_Cipher/Cipher.vhd,,,controller,,,,,,,,
+C:/Xilinx/ECE545/XTEA_Cipher/Datapath.vhd,1700352253,vhdl2008,C:/Xilinx/ECE545/XTEA_Cipher/Cipher.vhd,,,datapath,,,,,,,,
